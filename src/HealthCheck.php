@@ -2,8 +2,6 @@
 
 namespace IoDigital\HealthCheck;
 
-require(__DIR__ . '/../vendor/autoload.php');
-
 use Linfo\Linfo;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;

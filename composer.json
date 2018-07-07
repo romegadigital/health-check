@@ -1,5 +1,5 @@
 {
-    "name": "io-digital/health-check",
+    "name": "romegadigital/health-check",
     "type": "library",
     "description": "A Laravel package that performs health checks on your application",
     "keywords": [
